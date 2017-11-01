@@ -11,8 +11,9 @@
 ### 참조링크
 [네이버][1]
 [다음][2]
-[네이버][1]: http://www.naver.com, "네이버"
-[다음][2]: http://www.daum.com, "다음"
+[1]: http://www.naver.com/ "네이버"
+
+[2]: http://www.daum.net/ "다음"
 
 
 #### 제목4
