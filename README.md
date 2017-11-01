@@ -1,10 +1,11 @@
-# 제목1
+# 굵은글씨 & 기울임
 **수지**
 
 
 *수지*
-## 제목2
+## 링크 연습
 [고민툰](http://comic.naver.com/webtoon/detail.nhn?titleId=699413&no=26&weekday=wed, "고민툰")
+
 
 [설명](링크,"설명")
 ### 제목3
