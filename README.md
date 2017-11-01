@@ -27,4 +27,5 @@
 
 ###### ÂüÁ¶ ÀÌ¹ÌÁö
 ![ÀÌ¿¬Èñ ¸ô¶ó][1]
-[1] : http://image.cine21.com/cine21/still/2015/0128/17_44_43__54c8a17bc1b82.jpg/ ¸ô¶ó
+
+[1]: http://image.cine21.com/cine21/still/2015/0128/17_44_43__54c8a17bc1b82.jpg/ "¸ô¶ó"
