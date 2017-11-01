@@ -10,3 +10,14 @@ ___
 
 [하마](http://www.naver.com)문서로.
 
+
+#### 코드 참조
+
+'''
+int i=0;
+int sum=0;
+
+for(i=0;i<10;i++){
+    sum+=i;
+}
+'''
