@@ -4,6 +4,9 @@
 
 *荐瘤*
 ## 力格2
+[绊刮坯](http://comic.naver.com/webtoon/detail.nhn?titleId=699413&no=26&weekday=wed, "绊刮坯")
+
+[汲疙](傅农,"汲疙")
 ### 力格3
 #### 力格4
 ##### 力格5
